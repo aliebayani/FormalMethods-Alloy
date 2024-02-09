@@ -11,6 +11,6 @@
 </p>
 
 ## License
-<p> This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details. </p>
+<p>This project is licensed under the <a href="LICENSE">MIT License</a> - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 © 2022 ALI BAYANI
